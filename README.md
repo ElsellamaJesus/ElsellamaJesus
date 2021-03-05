@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning python, mysql and more...
 - 📫 How to reach me: jesus.salazar929@gmail.com
 
-![Gif](http://gph.is/1aShnsg)
+
